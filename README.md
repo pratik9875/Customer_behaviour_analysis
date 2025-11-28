@@ -28,7 +28,7 @@ The goal is to extract meaningful insights from transactional and demographic da
 
 ## 📂 Project Components
 
-### **1. SQL Analysis (`customer_behaviour.sql`)**
+### **1. SQL Analysis **
 Includes SQL queries for:
 - Total revenue by gender  
 - High-value customers using discounts  
@@ -45,7 +45,7 @@ Includes SQL queries for:
 
 ---
 
-### **2. Python Notebook (`customer behaviour.ipynb`)**
+### **2. Python Notebook **
 Performed:
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
@@ -62,7 +62,7 @@ Performed:
 
 ---
 
-### **3. Power BI Dashboard (`Customer_behaviour_Dashboard.pbix`)**
+### **3. Power BI Dashboard **
 The dashboard includes:
 - 📌 Total Revenue  
 - 👥 Total Customers  
